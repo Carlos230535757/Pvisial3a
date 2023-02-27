@@ -1,0 +1,15 @@
+C:\P.VISUAL\Pvisual3a\bin\Debug\Pvisual3a.exe.config
+C:\P.VISUAL\Pvisual3a\bin\Debug\Pvisual3a.exe
+C:\P.VISUAL\Pvisual3a\bin\Debug\Pvisual3a.pdb
+C:\P.VISUAL\Pvisual3a\obj\Debug\Pvisual3a.csproj.AssemblyReference.cache
+C:\P.VISUAL\Pvisual3a\obj\Debug\Pvisual3a.csproj.SuggestedBindingRedirects.cache
+C:\P.VISUAL\Pvisual3a\obj\Debug\Pvisual3a.Form1.resources
+C:\P.VISUAL\Pvisual3a\obj\Debug\Pvisual3a.FrmPrincipal.resources
+C:\P.VISUAL\Pvisual3a\obj\Debug\Pvisual3a.Properties.Resources.resources
+C:\P.VISUAL\Pvisual3a\obj\Debug\Pvisual3a.csproj.GenerateResource.cache
+C:\P.VISUAL\Pvisual3a\obj\Debug\Pvisual3a.csproj.CoreCompileInputs.cache
+C:\P.VISUAL\Pvisual3a\obj\Debug\Pvisual3a.exe
+C:\P.VISUAL\Pvisual3a\obj\Debug\Pvisual3a.pdb
+C:\P.VISUAL\Pvisual3a\obj\Debug\Pvisual3a.Form4.resources
+C:\P.VISUAL\Pvisual3a\obj\Debug\Factura.Form5.resources
+C:\P.VISUAL\Pvisual3a\obj\Debug\Pvisual3a.Calculadora.resources
